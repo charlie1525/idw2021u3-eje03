@@ -1,0 +1,27 @@
+{
+  "name": "ejerci03",
+  "version": "1.0.0",
+  "description": "Number to words in spanish or english",
+  "main": "index.js",
+  "dependencies": {
+    "numalet": "0.2.1",
+    "number-to-words": "1.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/charlie1525/idw2021u3-eje03.git"
+  },
+  "keywords": [
+    "Numbers"
+  ],
+  "author": "Carlos Uriel Fregoso Espericueta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/charlie1525/idw2021u3-eje03/issues"
+  },
+  "homepage": "https://github.com/charlie1525/idw2021u3-eje03#readme"
+}
